@@ -1,7 +1,7 @@
 # Zombie_Words_Replacement_in_Text
 You’ll be turning Jane Austen’s Pride and Prejudice into a version more interesting to zombies and use re to replace words in text. 
 
-Aims to apply abstraction and decomposition to solve more complex problems
+Aims to apply abstraction and decomposition to solve more complex problems.
 
 Qualifying statement:
 Learners are able to work on larger problems. They are able to simplify and break down larger problems, making use of abstraction and decomposition, as well as more complex reusable data structures.
